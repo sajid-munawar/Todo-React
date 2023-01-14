@@ -1,6 +1,6 @@
 import React from "react"
 import { createRoot } from 'react-dom/client';
-import TodoContainer from "./functionBased/components/TodoContainer"
+import TodoContainer from "./classBased/components/TodoContainer"
 
 //stylesheet
 import "./functionBased/App.css"
